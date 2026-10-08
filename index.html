@@ -3,8 +3,22 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Logic Aegis — Confiance numérique, identité et transformation en Afrique</title>
-<meta name="description" content="Logic Aegis accompagne les institutions et les entreprises en Afrique : PKI, identité numérique, signature électronique, plateformes TEMPO, Guichet Unique, AEGIS et TelliBell, intégration de systèmes, santé numérique et conseil.">
+<title>Logic Aegis | Confiance numérique et identité en Afrique</title>
+<meta name="description" content="PKI, identité numérique, signature électronique et plateformes TEMPO, Guichet Unique, AEGIS et TelliBell pour les institutions africaines. Depuis 2016.">
+<link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/">
+<link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/">
+<link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:locale:alternate" content="en_GB">
+<meta name="theme-color" content="#06111f">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://www.logicaegis.com/#org", "name": "Logic Aegis Ltd", "alternateName": ["Logic Aegis", "LOGIIC"], "url": "https://www.logicaegis.com/", "logo": "https://www.logicaegis.com/assets/logic-aegis-logo.png", "image": "https://www.logicaegis.com/assets/logic-aegis-partage.jpg", "foundingDate": "2016", "slogan": "Lead | Trust | Secure", "email": "info@logicaegis.com", "telephone": "+250788250328", "address": {"@type": "PostalAddress", "streetAddress": "Special Economic Zone, Plot G10", "addressLocality": "Kigali", "addressCountry": "RW"}, "location": [{"@type": "Place", "name": "Logic Aegis Kigali", "address": {"@type": "PostalAddress", "streetAddress": "Special Economic Zone, Plot G10", "addressLocality": "Kigali", "addressCountry": "RW"}}, {"@type": "Place", "name": "Logic Aegis Freetown", "address": {"@type": "PostalAddress", "streetAddress": "15 Water Street, Congo Town", "addressLocality": "Freetown", "addressCountry": "SL"}}, {"@type": "Place", "name": "Logic Aegis Gaborone", "address": {"@type": "PostalAddress", "streetAddress": "Independence Avenue", "addressLocality": "Gaborone", "addressCountry": "BW"}}, {"@type": "Place", "name": "Logic Aegis Conakry", "address": {"@type": "PostalAddress", "streetAddress": "Quartier Taouyah, Ratoma", "addressLocality": "Conakry", "addressCountry": "GN"}}], "areaServed": ["Africa", "RW", "SL", "BW", "GN"], "knowsAbout": ["PKI", "Digital identity", "Electronic signature", "Cybersecurity", "System integration", "Digital health", "DHIS2", "OpenMRS", "Government digital transformation"], "contactPoint": {"@type": "ContactPoint", "contactType": "sales", "telephone": "+250788250328", "email": "info@logicaegis.com", "availableLanguage": ["French", "English"]}}, {"@type": "WebSite", "@id": "https://www.logicaegis.com/#site", "url": "https://www.logicaegis.com/", "name": "Logic Aegis", "publisher": {"@id": "https://www.logicaegis.com/#org"}, "inLanguage": ["fr", "en"]}]}</script>
+<script>/* Langue : préférence enregistrée, sinon langue du navigateur (français → FR, autre → EN). Les robots ne sont pas redirigés. */
+(function(){var cur=document.documentElement.lang,pref=null;try{pref=localStorage.getItem('la-lang')}catch(e){}
+if(/bot|crawl|spider|slurp|lighthouse|facebookexternalhit|whatsapp|linkedin|preview/i.test(navigator.userAgent))return;
+var nav=((navigator.languages&&navigator.languages[0])||navigator.language||'fr').toLowerCase();
+var want=pref||(nav.indexOf('fr')===0?'fr':'en');
+if(want!==cur){location.replace((cur==='fr'?'en/':'../')+location.hash)}})();</script>
 <link rel="canonical" href="https://www.logicaegis.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Logic Aegis">
@@ -48,6 +62,9 @@ header.scrolled{background:rgba(6,17,31,.96)}
 .navlinks a:after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:var(--red2);transform:scaleX(0);transition:transform .25s}
 .navlinks a:hover{color:#fff}.navlinks a:hover:after,.navlinks a.active:after{transform:scaleX(1)}
 .navlinks a.active{color:#fff}
+.navlinks a.lang{border:1px solid #ffffff40;border-radius:20px;padding:5px 11px;font-size:12px;font-weight:700;letter-spacing:.5px;color:#fff}
+.navlinks a.lang:after{display:none}
+.navlinks a.lang:hover{background:#ffffff14}
 .menu{display:none;border:1px solid #ffffff50;background:transparent;color:#fff;min-width:46px;min-height:46px;border-radius:8px}
 .menu svg{width:24px;vertical-align:middle}
 
@@ -360,7 +377,7 @@ input:focus,select:focus,textarea:focus{border-color:#98c6d6}
 
 footer{padding:50px 0 34px;background:#040c17;color:#a9b8c9;font-size:13px}
 .foot{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:40px}
-.foot h4{color:#fff;font-size:13px;margin:0 0 12px}
+.foot h3{color:#fff;font-size:13px;margin:0 0 12px}
 .foot a{display:block;margin:6px 0}
 .foot a:hover{color:#fff}
 .legal{margin-top:40px;padding-top:20px;border-top:1px solid #ffffff12;font-size:11.5px;color:#73859a;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
@@ -438,7 +455,7 @@ footer{padding:50px 0 34px;background:#040c17;color:#a9b8c9;font-size:13px}
   <a class="logo" href="#accueil" aria-label="Logic Aegis, accueil"><svg viewBox="250 0 1500 1280" aria-hidden="true"><path d="M999 0 1116 200 613 1072H1294L1410 1273H265Z" fill="#fff"/><path d="M1162 282 1734 1273H1503L1046 482Z" fill="#cc1226"/></svg><span class="wm">LOGIC AEGIS</span></a>
   <div class="navlinks" id="navigation">
    <a href="#expertises">Expertises</a><a href="#plateformes">Plateformes</a><a href="#signature">Signature</a><a href="#realisations">Réalisations</a><a href="#secteurs">Secteurs</a><a href="#apropos">À propos</a><a href="#contact">Contact</a>
-  </div>
+  <a class="lang" href="en/" hreflang="en" lang="en" data-lang="en" aria-label="English version">EN</a></div>
   <a class="btn" href="#contact">Parlons de votre projet <span class="arrow">↗</span></a>
   <button class="menu" aria-label="Ouvrir le menu" aria-controls="navigation" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
  </nav>
@@ -788,9 +805,9 @@ footer{padding:50px 0 34px;background:#040c17;color:#a9b8c9;font-size:13px}
  <div class="wrap">
   <div class="foot">
    <div><a class="logo" href="#accueil" style="color:#fff" aria-label="Logic Aegis, accueil"><svg viewBox="250 0 1500 1280" aria-hidden="true"><path d="M999 0 1116 200 613 1072H1294L1410 1273H265Z" fill="#fff"/><path d="M1162 282 1734 1273H1503L1046 482Z" fill="#cc1226"/></svg><span class="wm">LOGIC AEGIS</span></a><p class="motto">LEAD <i>|</i> TRUST <i>|</i> SECURE</p><p style="max-width:300px">Confiance numérique, identité, intégration et transformation pour les institutions et les entreprises africaines.</p></div>
-   <div><h4>Expertises</h4><a href="#expertises">Confiance & identité</a><a href="#signature">Signature électronique</a><a href="#plateformes">Nos plateformes</a><a href="#expertises">Infrastructure</a><a href="#expertises">Applications</a></div>
-   <div><h4>Entreprise</h4><a href="#realisations">Réalisations</a><a href="#apropos">Notre histoire</a><a href="#methode">Notre approche</a><a href="#contact">Contact</a></div>
-   <div><h4>Contact</h4><a href="tel:+250788250328">+250 788 250 328</a><a href="mailto:info@logicaegis.com">info@logicaegis.com</a><span>Kigali · Freetown<br>Gaborone · Conakry</span></div>
+   <div><h3>Expertises</h3><a href="#expertises">Confiance & identité</a><a href="#signature">Signature électronique</a><a href="#plateformes">Nos plateformes</a><a href="#expertises">Infrastructure</a><a href="#expertises">Applications</a></div>
+   <div><h3>Entreprise</h3><a href="#realisations">Réalisations</a><a href="#apropos">Notre histoire</a><a href="#methode">Notre approche</a><a href="#contact">Contact</a></div>
+   <div><h3>Contact</h3><a href="tel:+250788250328">+250 788 250 328</a><a href="mailto:info@logicaegis.com">info@logicaegis.com</a><span>Kigali · Freetown<br>Gaborone · Conakry</span></div>
   </div>
   <div class="legal"><span>© 2026 Logic Aegis Ltd. Tous droits réservés.</span><span>Zone économique spéciale, Parcelle G10, Kigali, Rwanda</span></div>
  </div>
@@ -803,6 +820,8 @@ const projects=[[32.3,1.4],[38.7,9],[36.8,-1.3],[28.3,-15.4],[33.8,-13.9],[2.1,1
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
 document.documentElement.classList.add('js');
 
+/* langue */
+document.querySelectorAll('[data-lang]').forEach(a=>a.addEventListener('click',()=>{try{localStorage.setItem('la-lang',a.dataset.lang)}catch(e){}}));
 /* menu */
 const menu=document.querySelector('.menu'),nav=document.querySelector('.navlinks');
 function closeMenu(){nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Ouvrir le menu')}
@@ -812,7 +831,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav.classList.conta
 
 /* scroll progress, header, active link */
 const bar=document.querySelector('.progress'),header=document.querySelector('header');
-const links=[...nav.querySelectorAll('a')],targets=links.map(a=>document.querySelector(a.getAttribute('href')));
+const links=[...nav.querySelectorAll('a[href^="#"]')],targets=links.map(a=>document.querySelector(a.getAttribute('href')));
 function onScroll(){const h=document.documentElement;bar.style.transform=`scaleX(${h.scrollTop/(h.scrollHeight-h.clientHeight)})`;header.classList.toggle('scrolled',h.scrollTop>20);
  let cur=-1;targets.forEach((t,i)=>{if(t&&t.getBoundingClientRect().top<140)cur=i});links.forEach((a,i)=>a.classList.toggle('active',i===cur));timelineFill()}
 addEventListener('scroll',onScroll,{passive:true});
