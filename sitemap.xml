@@ -2,16 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.logicaegis.com/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/"/>
   </url>
   <url>
     <loc>https://www.logicaegis.com/en/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/expertises/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/expertises/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/expertises/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/expertises/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/expertises/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/expertises/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/expertises/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/expertises/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/plateformes/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/plateformes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/plateformes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/plateformes/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/plateformes/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/plateformes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/plateformes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/plateformes/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/signature/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/signature/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/signature/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/signature/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/signature/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/signature/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/signature/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/signature/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/realisations/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/realisations/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/realisations/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/realisations/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/realisations/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/realisations/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/realisations/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/realisations/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/a-propos/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/a-propos/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/a-propos/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/a-propos/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/contact/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/contact/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/mentions-legales/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/mentions-legales/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/mentions-legales/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/mentions-legales/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/confidentialite/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/confidentialite/"/>
+  </url>
+  <url>
+    <loc>https://www.logicaegis.com/en/confidentialite/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.logicaegis.com/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.logicaegis.com/en/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.logicaegis.com/confidentialite/"/>
   </url>
 </urlset>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" role="img" aria-label="AEGIS by Logic Aegis"><g>
+ <ellipse cx="105" cy="121.0" rx="92" ry="33.12" fill="none" stroke="#9d8cf2" stroke-width="8.28" transform="rotate(32 105 121.0)"/>
+ <circle cx="105" cy="121.0" r="51.52" fill="#0b1a2d" stroke="#3fc6dc" stroke-width="9.200000000000001"/>
+ <g stroke="#3fc6dc" stroke-width="5.52" fill="none" stroke-linejoin="round" stroke-linecap="round">
+  <path d="M105 84.19999999999999 L72.80000000000001 139.4 L137.2 139.4 Z"/>
+  <path d="M72.80000000000001 139.4 L105 159.64 L137.2 139.4"/>
+ </g>
+ <path d="M13 121.0 A92 33.12 0 0 0 197 121.0" fill="none" stroke="#3fc6dc" stroke-width="8.28" stroke-linecap="round" transform="rotate(-28 105 121.0)"/>
+ <circle cx="180.44" cy="63.96" r="11.96" fill="#d0192e"/>
+</g><text x="230" y="160" font-family="'Plus Jakarta Sans','Montserrat','Arial Black',Arial,sans-serif" font-size="150" font-weight="800" letter-spacing="-3" fill="#ffffff">AEGIS</text><text x="236" y="240" font-family="'Plus Jakarta Sans','Montserrat','Arial Black',Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="9" fill="#c6d2e4">by <tspan fill="#e3b04d">LOGIC AEGIS</tspan></text></svg>

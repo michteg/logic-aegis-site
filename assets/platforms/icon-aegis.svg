@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AEGIS"><rect width="512" height="512" rx="112" fill="#0b1a2d"/><g>
+ <ellipse cx="256" cy="256" rx="150" ry="54.0" fill="none" stroke="#9d8cf2" stroke-width="13.5" transform="rotate(32 256 256)"/>
+ <circle cx="256" cy="256" r="84.00000000000001" fill="#0b1a2d" stroke="#3fc6dc" stroke-width="15.0"/>
+ <g stroke="#3fc6dc" stroke-width="9.0" fill="none" stroke-linejoin="round" stroke-linecap="round">
+  <path d="M256 196.0 L203.5 286.0 L308.5 286.0 Z"/>
+  <path d="M203.5 286.0 L256 319.0 L308.5 286.0"/>
+ </g>
+ <path d="M106 256 A150 54.0 0 0 0 406 256" fill="none" stroke="#3fc6dc" stroke-width="13.5" stroke-linecap="round" transform="rotate(-28 256 256)"/>
+ <circle cx="379.0" cy="163.0" r="19.5" fill="#d0192e"/>
+</g></svg>
